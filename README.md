@@ -36,7 +36,7 @@
 
 | Certification | Issuer | Date | Verify |
 |---|---|---|---|
-| **Airbus Supply Chain Specialist** | Airbus Beyond | May 2026 | [📄 View](./airbus_suplply_chain_specialist.pdf) |
+| **Airbus Supply Chain Specialist** | Airbus Beyond | May 2026 | [📄 View](./Airbus_suplply_chain_specialist.pdf) |
 | **Master Diploma in Product Design** (CATIA V5 · SolidWorks · GD&T) | CADD Centre | Jan 2022 | [📄 View](./cadd_product_design_diploma.pdf) |
 
 ---
