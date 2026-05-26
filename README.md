@@ -18,7 +18,11 @@
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD-EE3424?style=flat)
 ![Python](https://img.shields.io/badge/Python-Engineering-3776AB?style=flat&logo=python&logoColor=white)
 ![XFLR5](https://img.shields.io/badge/XFLR5-Aerodynamics-1E6FBA?style=flat)
-
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
+![CATIA V5](https://img.shields.io/badge/CATIA%20V5-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![Siemens Teamcenter](https://img.shields.io/badge/Siemens%20Teamcenter-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![GD&T](https://img.shields.io/badge/GD%26T-ASME%20Y14.5--2018-1F3B57?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ### 🚀 Featured Projects
