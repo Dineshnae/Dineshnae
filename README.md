@@ -5,7 +5,7 @@
 🎓 MSc Aerospace, University of Salford (UK) · BTech Aerospace, Karunya Institute  
 🛠️ ANSYS · MATLAB/Simulink · XFLR5 · CATIA V5 · SolidWorks · Python
 
-📄 [Download my CV](./dinesh_cv_general_v3.pdf)  
+📄 [Download my CV](./dinesh_cv_general_v2.pdf) 
 🔗 [LinkedIn](https://linkedin.com/in/dinesh-natarajan-baaa95206)  
 📧 dineshnatarajan02@gmail.com
 
