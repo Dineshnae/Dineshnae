@@ -1,5 +1,5 @@
 ### Hi, I'm Dinesh 👋
-**Aerospace Engineer** | FEA · Flight Dynamics · CFD · V&V
+**Aerospace Engineer** | FEA · Flight Dynamics · CFD · V&V · GD&T · FEA ·
 
 📍 Bengaluru, India  
 🎓 MSc Aerospace, University of Salford (UK) · BTech Aerospace, Karunya Institute  
