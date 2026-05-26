@@ -55,7 +55,9 @@
 ### 💼 Experience
 
 **Product Design Engineer — Intern** · Black Space Research and Development, Bengaluru (Oct 2020 – Mar 2021)  
-Mechanical design and structural analysis of prototype components using ANSYS, CATIA V5, and SolidWorks. PFMEA, root cause analysis, integration and validation activities, technical documentation aligned with design traceability standards.
+Mechanical design and structural analysis of prototype components using ANSYS, CATIA V5, and SolidWorks. PFMEA, root cause analysis, integration and validation activities, technical documentation aligned with design traceability standards. Performed Linear Static Analysis of Rear Underrun Protection Device (RUPD) using HyperMesh and Abaqus/OptiStruct for automotive safety validation.
+Conducted CAD modeling, meshing, and stress/displacement analysis across 3 load cases with maximum stress maintained near material yield limits (~230 MPa).
+Improved understanding of CAE workflows, boundary condition setup, and structural performance evaluation for safety components.
 
 ---
 
