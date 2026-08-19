@@ -3,28 +3,38 @@ Hi, I'm Dinesh 👋
 AI/ML Engineer — Aerospace Simulation | Surrogate & Reduced-Order Modelling · CFD · FEA · Automation
 
 📍 Bengaluru, India
+
 🎓 MSc Aerospace, University of Salford (UK) · BTech Aerospace, Karunya Institute
+
 🛠️ Python (ML/Automation) · ANSYS · MATLAB/Simulink · XFLR5 · OpenFOAM · CATIA V5 · Docker
 
 📄 Download my CV 🔗 LinkedIn
 📧 dineshnatarajan02@gmail.com
 
 Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+
+
 🚀 Featured Projects
+
 Project	Tools	Result
+
 ⭐ ML Surrogate for NLF Airfoil Performance	Python · scikit-learn	R² = 0.998 · ~10⁶× faster than XFLR5
 Aircraft Flight Dynamics — Cessna 172	MATLAB/Simulink	State-space 4-DOF · MIL-SPEC CAP verified
 NLF Airfoil CFD	XFLR5	~44% L/D improvement, ~42% drag reduction
 Aircraft Engine Bracket FEA	ANSYS	Topology optimisation · ~12–15% mass reduction
 Twin-boom UAV Design	SolidWorks · XFLR5	Sub-5kg MTOW · 0.5kg payload surveillance
+
+
 📜 Certifications
 Certification	Issuer	Date	Verify
 Machine Learning Specialization (Supervised Learning, Neural Networks, TensorFlow)	DeepLearning.AI / Stanford Online	2026	—
 Airbus Supply Chain Specialist	Airbus Beyond	May 2026	📄 View
 Master Diploma in Product Design (CATIA V5 · SolidWorks · GD&T)	CADD Centre	Jan 2022	📄 View
+
 🎓 Education
 MSc Aerospace Engineering — University of Salford, Manchester, UK (2021–2023) · 2:1
 BTech Aerospace Engineering — Karunya Institute of Technology and Sciences, Coimbatore (2017–2021) · 2:1
+
 💼 Experience
 
 Simulation & Automation Engineer (Contract) · Alignerr (Labelbox), Remote (Jun 2026 – Present)
