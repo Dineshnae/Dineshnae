@@ -26,6 +26,7 @@ Twin-boom UAV Design	SolidWorks · XFLR5	Sub-5kg MTOW · 0.5kg payload surveilla
 
 
 📜 Certifications
+
 Certification	Issuer	Date	Verify
 Machine Learning Specialization (Supervised Learning, Neural Networks, TensorFlow)	DeepLearning.AI / Stanford Online	2026	—
 Airbus Supply Chain Specialist	Airbus Beyond	May 2026	📄 View
