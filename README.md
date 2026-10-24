@@ -29,7 +29,7 @@ Bengaluru, India · MSc Aerospace Engineering, University of Salford · [LinkedI
 | [Natural-laminar-flow airfoil study](https://github.com/Dineshnae/nlf-airfoil-cfd-xflr5) | NACA 63-215 and 64-210 against NACA 2412 across Re 500k to 3M, with 3D wing and stability derivatives | About 44 % higher L/D and 42 % lower drag at cruise | XFLR5, lifting line, vortex lattice |
 | [Cessna 172 longitudinal flight dynamics](https://github.com/Dineshnae/aircraft-flight-dynamics-cessna172) | 4-state small-perturbation state-space model with eigenvalue analysis and four elevator inputs | Short-period ωn 5.60 rad/s, ζ 0.58, inside MIL-F-8785C; 6 of 6 V&V checks | MATLAB, Simulink |
 | [Twin-boom surveillance UAV](https://github.com/Dineshnae/twin-boom-uav-design) | Conceptual design to a 3D-printed model in a three-person MSc team | 2.2 m span, 2.8 kg take-off weight against a sub-5 kg brief, 0.5 kg payload | SolidWorks, XFLR5 |
-| [Aerodynamic surrogate](https://github.com/Dineshnae/nlf-airfoil-ml-surrogate) | Neural-network surrogate for airfoil coefficients trained on panel-method data | 612 samples, R² 0.998, MAPE 2.9 %, about 10⁶× faster than the solver | Python, scikit-learn |
+| [Aerodynamic surrogate](https://github.com/Dineshnae/nlf-airfoil-ml-surrogate) | Neural-network surrogate for airfoil Cl, Cd and L/D, benchmarked against three other regressors on a dataset calibrated to the XFLR5 study | 612 points, L/D R² 0.998, MAPE 2.9 % held out, 2.7 to 6.7 % on unseen Reynolds numbers, about 10⁶× faster than the solver | Python, scikit-learn |
 
 ## Experience
 
