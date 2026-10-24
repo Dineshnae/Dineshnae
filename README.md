@@ -45,7 +45,7 @@ Bengaluru, India · MSc Aerospace Engineering, University of Salford · [LinkedI
 
 - **MSc Aerospace Engineering**, University of Salford, UK, 2023 (2:1). Dissertation: structural analysis of an aircraft engine bracket by the finite element method.
 - **BTech Aerospace Engineering**, Karunya Institute of Technology and Sciences, India, 2021 (2:1).
-- Master Diploma in Product Design, CADD Centre, 2022 ([certificate](./cadd_product_design_diploma.pdf)) · Airbus Supply Chain Specialist, Airbus Beyond, 2026 ([certificate](./Airbus_suplply_chain_specialist.pdf)) · Machine Learning Specialization, DeepLearning.AI and Stanford Online (in progress).
+- Master Diploma in Product Design, CADD Centre, 2022 ([certificate](./cadd_product_design_diploma.pdf)) · Airbus Supply Chain Specialist, Airbus Beyond, 2026 ([certificate](./Airbus_suplply_chain_specialist.pdf)) · Machine Learning Specialization, DeepLearning.AI and Stanford Online, 2026.
 
 ## Tools
 
